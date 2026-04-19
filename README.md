@@ -51,5 +51,5 @@ Real-world debugging and problem-solving
 
 # Author
 
-Anthony Reyes
+# Anthony Reyes
 Aspiring Python Automation Developer | Cybersecurity Background
