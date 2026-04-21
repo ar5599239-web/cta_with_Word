@@ -4,7 +4,7 @@ A Python-based automation tool that processes client task data, generates struct
 
 # Overview
 
-This project simulates a real-world business workflow where client task data is managed, reported, and distributed automatically.
+This project simulates a real-world business workflow where client task data is managed, reported, and distributed automatically. AI-assisted techniques were used to enhance development, optimize troubleshooting, and improve code quality, while all logic, validation, and security controls were implemented and verified by the developer.
 
 # The system:
 
